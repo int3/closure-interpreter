@@ -1,0 +1,11 @@
+{
+  "name": "closure-interpreter",
+  "version": "1.0.0",
+  "dependencies": {
+    "esprima": "git+https://github.com/ariya/esprima.git#harmony",
+    "estraverse": "*"
+  },
+  "devDependencies": {
+    "microtime": "*"
+  }
+}

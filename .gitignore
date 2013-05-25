@@ -1,0 +1,7 @@
+*.swp
+*.swo
+lib/*.js
+vendor/benchmarks/*results/*
+vendor/benchmarks/*-results-*
+node_modules/*
+.vimrc
